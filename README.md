@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0075-sort-colors) |
+| [0704-binary-search](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

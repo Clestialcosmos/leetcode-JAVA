@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

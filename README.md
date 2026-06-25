@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0075-sort-colors) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0283-move-zeroes) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

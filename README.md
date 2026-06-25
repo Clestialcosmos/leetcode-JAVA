@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -23,13 +24,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0374-guess-number-higher-or-lower) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

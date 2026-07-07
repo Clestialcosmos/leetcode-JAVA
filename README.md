@@ -78,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 ## Stack
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

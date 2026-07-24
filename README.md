@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |

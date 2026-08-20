@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2652-sum-multiples](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2652-sum-multiples) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |

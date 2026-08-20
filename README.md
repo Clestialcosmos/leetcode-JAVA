@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [2706-buy-two-chocolates](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2706-buy-two-chocolates) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1539-kth-missing-positive-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2706-buy-two-chocolates](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2706-buy-two-chocolates) |

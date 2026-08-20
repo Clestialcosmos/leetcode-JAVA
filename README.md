@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1539-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2706-buy-two-chocolates](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0242-valid-anagram) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Trie
 |  |
 | ------- |

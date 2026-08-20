@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1539-kth-missing-positive-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2706-buy-two-chocolates](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Math
 |  |
 | ------- |

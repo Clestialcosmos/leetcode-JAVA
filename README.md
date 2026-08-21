@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
+| [2325-decode-the-message](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2325-decode-the-message) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Math
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0242-valid-anagram) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2325-decode-the-message](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2325-decode-the-message) |
 ## Trie
 |  |
 | ------- |

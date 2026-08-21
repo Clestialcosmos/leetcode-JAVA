@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2652-sum-multiples) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
 | ------- |

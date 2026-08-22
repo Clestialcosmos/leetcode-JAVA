@@ -7,6 +7,8 @@ class Solution {
             nums[i] = nums[i-1];
             nums[i-1] = temp; 
         }
-        return nums;  
+        return nums; 
+
+        //o(nlogn) 
     }
 }

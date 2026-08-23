@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2706-buy-two-chocolates](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2706-buy-two-chocolates) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2652-sum-multiples) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |

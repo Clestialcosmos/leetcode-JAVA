@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1313-decompress-run-length-encoded-list) |
+| [1534-count-good-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -169,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2652-sum-multiples) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2367-number-of-arithmetic-triplets) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->

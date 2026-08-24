@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2325-decode-the-message](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0229-majority-element-ii) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Divide and Conquer
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2367-number-of-arithmetic-triplets) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2706-buy-two-chocolates](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2974-minimum-number-game) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |

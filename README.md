@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0242-valid-anagram) |
+| [0709-to-lower-case](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1773-count-items-matching-a-rule) |

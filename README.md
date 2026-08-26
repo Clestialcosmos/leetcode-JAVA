@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2706-buy-two-chocolates](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2974-minimum-number-game) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Stack
 |  |
 | ------- |

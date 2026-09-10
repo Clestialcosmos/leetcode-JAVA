@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

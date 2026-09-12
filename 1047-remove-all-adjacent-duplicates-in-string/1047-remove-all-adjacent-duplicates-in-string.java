@@ -7,10 +7,24 @@ class Solution {
 
             else stk.push(c);
         }
-        StringBuilder sb = new StringBuilder();
-        while(!stk.isEmpty()) sb.append(stk.pop());
+        int i = 0;
+        char[] chars = new char[stk.size()];
+        while(!stk.isEmpty())
+        { 
+            chars[i++] = stk.pop();
+        }
 
-        sb.reverse(); 
-        return sb.toString();
+        int left = 0, right = chars.length - 1;
+        while (left < right) {
+            char temp = chars[left];
+            chars[left] = chars[right];
+            chars[right] = temp;
+            left++;
+            right--;
+        }
+        String res = "";
+        for(char c : chars) res += c;
+
+        return res;
     }
 }

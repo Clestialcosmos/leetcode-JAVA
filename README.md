@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2325-decode-the-message](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2325-decode-the-message) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Trie
 |  |
 | ------- |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 <!---LeetCode Topics End-->

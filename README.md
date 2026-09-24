@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0075-sort-colors) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0283-move-zeroes) |
@@ -147,12 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |

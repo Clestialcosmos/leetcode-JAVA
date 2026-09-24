@@ -1,18 +1,17 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        //Moyre's voting algorithm \\
-        for (int i = 0;i<nums.length;i++){
-            int count = 0;
-            for(int j = 0;j<=nums.length-1;j++){
-                if (nums[i] == nums[j]){
-                    count++;
-                }
+        //Insertion sort
+        int n = nums.length;
+        for(int i = 1;i<n;i++){
+            int j = i-1;
+            int key  = nums[i];
+
+            while(j >= 0 && nums[j] > key ){
+                nums[j+1] = nums[j];
+                j--;
             }
-            if (count > nums.length/2){
-                return nums[i];
-            
-            }
+            nums[j+1] = key;
         }
-       return 0;  
+        return nums[n/2];
     }
 }

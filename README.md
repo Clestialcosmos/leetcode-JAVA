@@ -232,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

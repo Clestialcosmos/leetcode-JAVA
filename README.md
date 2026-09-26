@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0905-sort-array-by-parity) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0507-perfect-number) |

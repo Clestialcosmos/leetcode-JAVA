@@ -161,12 +161,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0169-majority-element) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

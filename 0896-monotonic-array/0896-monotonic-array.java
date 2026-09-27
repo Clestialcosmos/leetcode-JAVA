@@ -1,13 +1,19 @@
-class Solution {
+public class Solution {
     public boolean isMonotonic(int[] nums) {
-        int asc = 0;
-        int desc = 0;
-        int n = nums.length;
-        for(int i = 0;i<n-1;i++){
-            if(nums[i] < nums[i+1]) asc++;
-            else if(nums[i] > nums[i+1]) desc++;
+        Stack<Integer> stack = new Stack<>();
+        boolean increasing = true, decreasing = true;
+
+        for (int num : nums) {
+            if (!stack.isEmpty()) {
+                if (num < stack.peek()) {
+                    increasing = false;
+                }
+                if (num > stack.peek()) {
+                    decreasing = false; 
+                }
+            }
+            stack.push(num);
         }
-        if(asc == 0 || desc == 0) return true;
-        return false;
+        return increasing || decreasing;
     }
 }

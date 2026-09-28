@@ -1,17 +1,15 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        //Insertion sort
+        //insertion sort
+        int vote =0;
         int n = nums.length;
-        for(int i = 1;i<n;i++){
-            int j = i-1;
-            int key  = nums[i];
-
-            while(j >= 0 && nums[j] > key ){
-                nums[j+1] = nums[j];
-                j--;
-            }
-            nums[j+1] = key;
-        }
-        return nums[n/2];
+        int maj = 0;
+        for(int i = 0;i<n;i++){
+            if(vote == 0) maj = nums[i];
+            if(maj == nums[i]) vote++; else vote--;
+            
+       
+    }
+    return maj; 
     }
 }

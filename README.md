@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0075-sort-colors) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0189-rotate-array) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

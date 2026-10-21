@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1773-count-items-matching-a-rule) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -272,4 +273,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->

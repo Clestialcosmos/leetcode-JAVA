@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0905-sort-array-by-parity) |
@@ -266,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0048-rotate-image) |
+| [0766-toeplitz-matrix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

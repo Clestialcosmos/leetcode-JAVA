@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1313-decompress-run-length-encoded-list) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1539-kth-missing-positive-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
@@ -269,4 +271,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Clestialcosmos/leetcode-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->

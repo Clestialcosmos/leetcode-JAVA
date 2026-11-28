@@ -1,20 +1,18 @@
 class Solution {
-    List<List<Integer>> result = new ArrayList<>();
-    void backtracking(int idx,int[] nums,List<Integer> temp){
-        if(idx == nums.length){
-            result.add(new ArrayList<>(temp));
+    static void subseq(int[] arr,int index,int n,List<List<Integer>> ans,List<Integer> temp){
+        if(index == n){
+            ans.add(new ArrayList<>(temp));;
             return;
         }
-        temp.add(nums[idx]);
-        backtracking(idx+1,nums,temp);
-
+        subseq(arr,index+1,n,ans,temp);
+        temp.add(arr[index]);
+        subseq(arr,index+1,n,ans,temp);
         temp.remove(temp.size()-1);
-        backtracking(idx+1,nums,temp);
     }
     public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
-        int idx = 0;
-        backtracking(idx,nums,temp);
-        return result;
+        subseq(nums,0,nums.length,ans,temp);
+        return ans;
     }
 }
